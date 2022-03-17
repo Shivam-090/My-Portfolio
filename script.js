@@ -17,7 +17,7 @@ $(document).ready(function () {
 
     // Typing Animation Script
     var typed = new Typed(".typing", {
-        strings: ["Listen Music", "Develop", "Watch Anime"],
+        strings: ["Listen Music", "Develop", "Watch Anime", "Code"],
         typedSpeed: 90,
         backSpeed: 60,
         loop: true
